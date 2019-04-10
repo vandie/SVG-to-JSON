@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "clipboardy": "^1.2.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "svg-to-json",
+  "version": "1.0.0",
+  "description": "Converts a list of svgs to a json object",
+  "main": "index.js",
+  "author": "Michael Van Der Velden",
+  "license": "MIT"
+}
